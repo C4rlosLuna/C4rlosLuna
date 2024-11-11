@@ -1,11 +1,12 @@
 <img src="https://github.com/C4rlosLuna/C4rlosLuna/blob/main/ban.png" alt="Facebook" >
 
-
-
  <table style="width: 100%;">
         <tr>
+         <td style="text-align: center;">
+             <img src="https://github.com/C4rlosLuna/C4rlosLuna/blob/main/infantilredonda.png" style="width: 600px; height:250px;">
+            </td>
            <td style="text-align: center;">
-                <p>Creatividad,responsabilidad, respeto, humildad, atencion a los detalles y pasiencia. Son algunos de los valores que confroman mi personalidad. una persona capaz de lograr sus objetivos y alcanzarlos sin importar las circustancias, soy capaz detrabajar 
+                <p style="text-align: justify;"><b>Creatividad, responsabilidad, respeto, humildad, atencion a los detalles y pasiencia.</b> Son algunos de los valores que confroman mi                            personalidad. Una persona capaz de lograr sus objetivos y alcanzarlos sin importar las circustancias, soy capaz de trabajar 
                    en equipo y desenvolverme con facilidad frente a las personas, de igual forma, tengo la capacidad de trabajar en distintas áreas y de distintas maneras.</p>
             </td>
         </tr>
@@ -15,9 +16,9 @@
            <td style="text-align: center;">
                 <h2>Formación Académica</h2>   
                 <h3>2021-2023</h3>
-                <p><b>Técnico Superior Universitario</b>En Tecnologías De La Información Área Entornos Virtuales Y Negocios Digitales en la Universidad Tecnológica De Tlaxcala, El Carmen, Xalpatlahuaya, Huamantla.</p>
+                <p><b>Técnico Superior Universitario</b> En Tecnologías De La Información Área Entornos Virtuales Y Negocios Digitales en la Universidad Tecnológica De Tlaxcala, El Carmen, Xalpatlahuaya, Huamantla.</p>
                 <h3>2018-2021</h3>
-                <p><b>Técnico medio superior</b>En Desarrollo de Software en el Centro de Estudios Científicos y Tecnológicos Numero 10 de Yauhquemehcan.</p>
+                <p><b>Técnico medio superior</b> En Desarrollo de Software en el Centro de Estudios Científicos y Tecnológicos Numero 10 de Yauhquemehcan.</p>
             </td>
         </tr>
     </table>
@@ -32,16 +33,27 @@
                 <p><b>Desarrollo de Videojuegos</b></p>
                 <p><b>Desarrollo de RA</b></p>
                 <p><b>Desarrollo de VI</b></p>
+                <p><b>Animación 3D</b></p>
+                <p><b>Programación de Videojuegos</b></p>
+                <p><b>Desarrollo de VI</b></p>
+                <p><b>Cinematica 3D</b></p>
+                <p><b>Desarrollo de VI</b></p>
+                <p><b>Programación de UI en Unity Engine</b></p>
             </td>
             <td style="text-align: center;">
                 <h2>Herramientas</h2>   
-                 <img src="ruta/a/icono-instagram.png" alt="Instagram" style="width: 40px; height: 40px;">
-                 <img src="ruta/a/icono-instagram.png" alt="Instagram" style="width: 40px; height: 40px;">
-                 <img src="ruta/a/icono-instagram.png" alt="Instagram" style="width: 40px; height: 40px;">
-                 <img src="ruta/a/icono-instagram.png" alt="Instagram" style="width: 40px; height: 40px;">
-                 <img src="ruta/a/icono-instagram.png" alt="Instagram" style="width: 40px; height: 40px;">
-                 <img src="ruta/a/icono-instagram.png" alt="Instagram" style="width: 40px; height: 40px;">
-                
+                <p><b>Blender 3D 3D</b></p>
+                <p><b>Unity Engine</b></p>
+                <p><b>Visual Studio Code</b></p>
+                <p><b>FL Studio</b></p>
+                <p><b>Power BI</b></p>
+                <p><b></b></p>
+                <p><b>Animación 3D</b></p>
+                <p><b>Programación de Videojuegos</b></p>
+                <p><b>Desarrollo de VI</b></p>
+                <p><b>Cinematica 3D</b></p>
+                <p><b>Desarrollo de VI</b></p>
+                <p><b>Programación de UI en Unity Engine</b></p>
 </td>
 </tr>
 </table>
@@ -68,14 +80,14 @@
                     <table border="1" cellpadding="10" style="width: 200px; text-align: center;">
                         <tr>
                             <td>
-                                <img src="ruta/a/imagen1.jpg" alt="Proyecto 1" style="width: 100%; height: auto;">
+                                <img src="https://github.com/C4rlosLuna/C4rlosLuna/blob/main/Elits.png" style="width: 139px; height: auto;">
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <strong>Proyecto 1</strong>
+                                <strong>Reglamento De Laboratorios En RA: Elits</strong>
                                 <br>
-                                Descripción breve del proyecto 1.
+                                Aplicacion de Realidad Aumentada 
                             </td>
                         </tr>
                     </table>
@@ -86,14 +98,14 @@
                     <table border="1" cellpadding="10" style="width: 200px; text-align: center;">
                         <tr>
                             <td>
-                                <img src="ruta/a/imagen2.jpg" alt="Proyecto 2" style="width: 100%; height: auto;">
+                                <img src="https://github.com/C4rlosLuna/C4rlosLuna/blob/main/Tochme.jpeg" style="width: 100%; height: auto;">
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <strong>Proyecto 2</strong>
+                                <strong>Pagina Web: Tochme</strong>
                                 <br>
-                                Descripción breve del proyecto 2.
+                                Pagina Web 
                             </td>
                         </tr>
                     </table>
