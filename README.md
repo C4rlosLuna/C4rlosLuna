@@ -1,31 +1,9 @@
-<img src="ruta/a/icono-facebook.png" alt="Facebook" style="width: 40px; height: 40px;">
+<img src="https://github.com/C4rlosLuna/C4rlosLuna/blob/main/ban.png" alt="Facebook" >
 
-<table>
-      <tr>
-            <td>Key 1</td>
-            <td>Key 2</td>
-            <td>Key 3</td>
-            <td>Key 4</td>
-        </tr>
-</table>
 
-<h1 align = center>Carlos Luna Sánchez</h1>
-
- <a href="https://www.facebook.com" target="_blank">
-        <img src="ruta/a/icono-facebook.png" alt="Facebook" style="width: 40px; height: 40px;">
-    </a>
-    <a href="https://www.twitter.com" target="_blank">
-        <img src="ruta/a/icono-twitter.png" alt="Twitter" style="width: 40px; height: 40px;">
-    </a>
-    <a href="https://www.instagram.com" target="_blank">
-        <img src="ruta/a/icono-instagram.png" alt="Instagram" style="width: 40px; height: 40px;">
-  </a>
 
  <table style="width: 100%;">
         <tr>
-            <td style="text-align: center;">
-                <img src="ruta/a/tu-imagen.jpg" alt="Descripción de la imagen">
-            </td>
            <td style="text-align: center;">
                 <p>Creatividad,responsabilidad, respeto, humildad, atencion a los detalles y pasiencia. Son algunos de los valores que confroman mi personalidad. una persona capaz de lograr sus objetivos y alcanzarlos sin importar las circustancias, soy capaz detrabajar 
                    en equipo y desenvolverme con facilidad frente a las personas, de igual forma, tengo la capacidad de trabajar en distintas áreas y de distintas maneras.</p>
@@ -141,3 +119,12 @@
             </td>
         </tr>
     </table>
+<a href="https://www.facebook.com" target="_blank">
+        <img src="ruta/a/icono-facebook.png" alt="Facebook" style="width: 40px; height: 40px;">
+    </a>
+    <a href="https://www.twitter.com" target="_blank">
+        <img src="ruta/a/icono-twitter.png" alt="Twitter" style="width: 40px; height: 40px;">
+    </a>
+    <a href="https://www.instagram.com" target="_blank">
+        <img src="ruta/a/icono-instagram.png" alt="Instagram" style="width: 40px; height: 40px;">
+  </a>
