@@ -105,11 +105,14 @@
 
 
 <a href="https://www.facebook.com" target="_blank">
-        <img src="ruta/a/icono-facebook.png" alt="Facebook" style="width: 40px; height: 40px;">
+        <img src="https://github.com/C4rlosLuna/C4rlosLuna/blob/main/facebook.png" alt="Facebook" style="width: 40px; height: 40px;">
     </a>
     <a href="https://www.twitter.com" target="_blank">
-        <img src="ruta/a/icono-twitter.png" alt="Twitter" style="width: 40px; height: 40px;">
+        <img src="https://github.com/C4rlosLuna/C4rlosLuna/blob/main/instagram.png" alt="c4rlosluna_" style="width: 40px; height: 40px;">
     </a>
     <a href="https://www.instagram.com" target="_blank">
-        <img src="ruta/a/icono-instagram.png" alt="Instagram" style="width: 40px; height: 40px;">
+        <img src="https://github.com/C4rlosLuna/C4rlosLuna/blob/main/x.png" alt="@clrsluna" style="width: 40px; height: 40px;">
+  </a>
+  <a href="https://www.instagram.com" target="_blank">
+        <img src="https://github.com/C4rlosLuna/C4rlosLuna/blob/main/gmail.png" alt="clrsluna23@gmail.com" style="width: 40px; height: 40px;">
   </a>
